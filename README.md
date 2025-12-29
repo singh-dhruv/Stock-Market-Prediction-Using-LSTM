@@ -31,7 +31,7 @@ This web application is designed to predict stock market trends using machine le
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/abdellatif-laghjaj/stock-market-prediction-app.git
+   git clone https://github.com/singh-dhruv/stock-market-prediction-app.git
    ```
 
 2. Install the required dependencies:
