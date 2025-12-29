@@ -193,7 +193,7 @@ if selected_tab == "Comparison":
                     'multiplicative_terms_upper'
                 ])
 
-                # Rename columns
+                # Renaming columns
                 new_forecast = new_forecast.rename(columns={
                     "ds": "Date", 
                     "yhat": "Close", 
