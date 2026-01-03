@@ -50,7 +50,7 @@ with st.spinner("Loading data..."):
 # Display the success message
 success_message = st.success("Data loaded successfully!")
 
-# Introduce a delay before clearing the success message
+# Introduce delay before clearing the success message
 sleep(1)
 
 # Clear the success message
